@@ -5,8 +5,8 @@
 
 ### 👨‍💻 About Me
 
-I am an IT student with a professional background in software development.  
-Before my studies, I completed a formal apprenticeship as a software developer with a strong focus on Java.  
+I am an IT student with a  background in software development.  
+Before my studies, I completed a formal apprenticeship as a software developer with a focus on Java.  
 I value clean and understandable architectures, maintainable code over short-term hacks, and systems that are built to evolve rather than just work once.
 
 ---
@@ -85,7 +85,7 @@ I value clean and understandable architectures, maintainable code over short-ter
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
----
+<!---
 
 ### 🧪 Exploratory Technologies
 <p align="left">
@@ -95,3 +95,5 @@ I value clean and understandable architectures, maintainable code over short-ter
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
 </p>
+
+---->
